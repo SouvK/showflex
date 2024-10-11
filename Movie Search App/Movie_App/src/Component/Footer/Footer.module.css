@@ -1,0 +1,11 @@
+.socialMediaLogo:hover{
+    transform: scale(1.2);
+}
+
+.socialMediaLogo{
+    transition: 0.2s;
+}
+
+.ftr{
+    bottom: 0;
+}

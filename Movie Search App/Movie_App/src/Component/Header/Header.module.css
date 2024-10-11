@@ -1,0 +1,35 @@
+.searchBorderRemove {
+    border: none;
+    font-size: large;
+}
+
+.srchBorder{
+    border: 1px solid rgb(180, 177, 177);
+    border-radius: 0.625rem;
+}
+
+input:focus{
+    outline: none;  /* removes the focus from the html input tag */
+}
+
+.modeButton {
+    border: none;
+    border-radius: 0.3125rem;
+    padding: 0.5rem;
+}
+
+.logoImg{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 1rem;
+}
+
+/* .navbar{
+    padding-top: ;
+} */
+
+.navBarText {
+    font-weight: 700;
+    font-size: 1.1875rem;
+}
+
